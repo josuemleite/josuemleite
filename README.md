@@ -1,7 +1,7 @@
 ### Olá, eu sou o Josué
 
 - 🌱 Eu estou cursando Sistemas de Informação
-- 🎓 Eu sou formado em Técnico em Informática
+- 🎓 Eu sou Técnico em Informática
 
 <div align="center">
   <a href="https://github.com/josuemleite">
